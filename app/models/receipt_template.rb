@@ -1,0 +1,2 @@
+class ReceiptTemplate < ApplicationRecord
+end

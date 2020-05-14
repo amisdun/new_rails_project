@@ -1,0 +1,2 @@
+class AdminSignup < ApplicationRecord
+end

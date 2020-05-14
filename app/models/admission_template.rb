@@ -1,0 +1,2 @@
+class AdmissionTemplate < ApplicationRecord
+end
